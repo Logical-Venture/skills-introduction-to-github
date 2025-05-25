@@ -25,7 +25,8 @@ To italicize, bold, or strikethrough text, use the following syntax:
 
 ```
 *Italic* or _Italic_  
-**Bold** or __Bold__  
+**Bold** or __Bold__
+***Bold & Italic*** or ___Bold & Italic___
 ~~Strikethrough~~
 ```
 
@@ -33,6 +34,7 @@ Result (when rendered):
 
 *Italic*  
 **Bold**  
+***Bold & Italic***
 ~~Strikethrough~~
 
 ---
