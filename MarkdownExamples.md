@@ -16,6 +16,15 @@ Use `#` for headings. The number of `#` signs determines the heading level:
 ### H3 Heading  
 #### H4 Heading  
 ```
+Result (when rendered):
+
+# H1 Heading  
+## H2 Heading  
+### H3 Heading  
+#### H4 Heading  
+
+
+
 
 ---
 
@@ -34,8 +43,8 @@ Result (when rendered):
 
 *Italic*  
 **Bold**  
-***Bold & Italic***
-~~Strikethrough~~
+***Bold & Italic***  
+~~Strikethrough~~  
 
 ---
 
